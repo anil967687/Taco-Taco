@@ -1,0 +1,14 @@
+LINE NO 202 MARGIN VARIABLE
+
+line 206 216 
+
+
+margin never works
+
+
+what is offscreen
+
+
+last media query not working 
+
+js file not working
